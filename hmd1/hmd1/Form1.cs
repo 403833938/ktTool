@@ -25,7 +25,7 @@ namespace hmd1
             DataTable dt = ExecuteReader1(sql).Tables[0];
             toexcel(dt);
         }
-        string strcon1 = "server=10.99.8.140;database=剔除;uid=sa;pwd=Dry01!";
+        string strcon1 = "";
         public System.Data.DataSet ExecuteReader1(string sql)
         {
             SqlConnection sqlcon = new SqlConnection(strcon1);

@@ -11,3 +11,6 @@ C:\Users\Administrator\Desktop\hmd1\hmd1\bin\Debug\NPOI.OpenXml4Net.dll
 C:\Users\Administrator\Desktop\hmd1\hmd1\obj\Debug\hmd1.csprojResolveAssemblyReference.cache
 C:\Users\Administrator\Desktop\hmd1\hmd1\obj\Debug\hmd1.exe
 C:\Users\Administrator\Desktop\hmd1\hmd1\obj\Debug\hmd1.pdb
+D:\项目\ktTool\hmd1\hmd1\bin\Debug\hmd1.exe.config
+D:\项目\ktTool\hmd1\hmd1\obj\Debug\hmd1.exe
+D:\项目\ktTool\hmd1\hmd1\obj\Debug\hmd1.pdb
