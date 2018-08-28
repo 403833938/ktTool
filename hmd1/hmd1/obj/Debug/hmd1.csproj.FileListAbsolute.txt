@@ -1,0 +1,13 @@
+C:\Users\Administrator\Desktop\hmd1\hmd1\bin\Debug\hmd1.exe.config
+C:\Users\Administrator\Desktop\hmd1\hmd1\obj\Debug\hmd1.Form1.resources
+C:\Users\Administrator\Desktop\hmd1\hmd1\obj\Debug\hmd1.Properties.Resources.resources
+C:\Users\Administrator\Desktop\hmd1\hmd1\obj\Debug\hmd1.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\hmd1\hmd1\bin\Debug\hmd1.exe
+C:\Users\Administrator\Desktop\hmd1\hmd1\bin\Debug\hmd1.pdb
+C:\Users\Administrator\Desktop\hmd1\hmd1\bin\Debug\NPOI.dll
+C:\Users\Administrator\Desktop\hmd1\hmd1\bin\Debug\NPOI.OOXML.dll
+C:\Users\Administrator\Desktop\hmd1\hmd1\bin\Debug\NPOI.OpenXmlFormats.dll
+C:\Users\Administrator\Desktop\hmd1\hmd1\bin\Debug\NPOI.OpenXml4Net.dll
+C:\Users\Administrator\Desktop\hmd1\hmd1\obj\Debug\hmd1.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\hmd1\hmd1\obj\Debug\hmd1.exe
+C:\Users\Administrator\Desktop\hmd1\hmd1\obj\Debug\hmd1.pdb
